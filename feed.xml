@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>blog</title>
-    <link href="https://neocris.github.io/test/feed.xml" rel="self" />
-    <link href="https://neocris.github.io/test" />
-    <updated>2018-09-02T00:03:41+01:00</updated>
+    <link href="https://neocris.github.io/blog/feed.xml" rel="self" />
+    <link href="https://neocris.github.io/blog" />
+    <updated>2018-09-02T00:11:51+01:00</updated>
     <author>
         <name>cris</name>
     </author>
-    <id>https://neocris.github.io/test</id>
+    <id>https://neocris.github.io/blog</id>
 
     <entry>
         <title>an evaluation of emdr</title>
         <author>
             <name>cris</name>
         </author>
-        <link href="https://neocris.github.io/test/an-evaluation-of-emdr.html"/>
-        <id>https://neocris.github.io/test/an-evaluation-of-emdr.html</id>
+        <link href="https://neocris.github.io/blog/an-evaluation-of-emdr.html"/>
+        <id>https://neocris.github.io/blog/an-evaluation-of-emdr.html</id>
 
         <updated>2018-09-02T00:02:51+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://neocris.github.io/test/media/posts/2/" alt="" />
+                        <img src="https://neocris.github.io/blog/media/posts/2/" alt="" />
                     struggling in the last 20 years or so with severe emotional paralysis, a term coinend by myself to denote the full extent of psychological impedance affecting my everyday endeavours - i set to understand better the emdr cognitive tool said to reprocess the way the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://neocris.github.io/test/media/posts/2/" alt="" />
+                    <img src="https://neocris.github.io/blog/media/posts/2/" alt="" />
                 <p>struggling in the last 20 years or so with severe <a href="https://en.wikipedia.org/wiki/Schizophrenia" target="_blank" rel="noopener noreferrer">emotional paralysis</a>, a term coinend by myself to denote the full extent of psychological impedance affecting my everyday endeavours - i set to understand better the emdr cognitive tool said to reprocess the way the mind copes with memories</p>
 <p>from the way i experience and understand the range of psychological disturbances comprising schyzophrenia i can say honestly that it seems to me the way this tool works is by providing the mind with a kind of detour from the persistent way it processes stressful stimula</p>
 <p>biological speaking, we give much relevance to things pervasive to our survival skills; have you ever seen how meerkats scan their surroundings is search of predators? they seem so focused on the task that they hardly can give way to any other thought other than that, it is essential for their survival. if we could see an heatmap of a brain scan from a meerkat performing this essential task and tag it in some convenient way it probably would show all brain areas fully devoted to it</p>
-<figure class="post__image post__image--left" ><img src="https://neocris.github.io/test/media/posts/2/640px-Meerkat_feb_09.jpg" width="640" height="427">
+<figure class="post__image post__image--left" ><img src="https://neocris.github.io/blog/media/posts/2/640px-Meerkat_feb_09.jpg" width="640" height="427">
 <figcaption >Por Fir0002 - Obra do próprio, GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=7698654</figcaption>
 </figure>
 <p>to understand how this could work we must remind ourselfs the way the mind deals and processes memories. as much as the current understanding goes, memories are staggered trough a set of wheights delimiting their relative degree of importance to us in hierarchical form so that they are more or less easily accessible according to this</p>
