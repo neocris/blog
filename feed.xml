@@ -3,7 +3,7 @@
     <title>blog</title>
     <link href="https://neocris.github.io/blog/feed.xml" rel="self" />
     <link href="https://neocris.github.io/blog" />
-    <updated>2018-09-02T01:46:02+01:00</updated>
+    <updated>2018-09-02T01:48:40+01:00</updated>
     <author>
         <name>cris</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://neocris.github.io/blog/an-evaluation-of-emdr.html"/>
         <id>https://neocris.github.io/blog/an-evaluation-of-emdr.html</id>
+            <category term="psychology"/>
 
-        <updated>2018-09-02T01:45:53+01:00</updated>
+        <updated>2018-09-02T01:48:02+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://neocris.github.io/blog/media/posts/2/" alt="" />
