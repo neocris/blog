@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://neocris.github.io/blog/the-mad-genius-complex.html",
+            "url": "https://neocris.github.io/blog/the-mad-genius-complex.html",
+            "title": "the mad genius complex",
+            "summary": "why do above average people seem more prone to depression than the rest? this has troubled many eminent practitioners on the field. personally i think this might relate to the fact that inteligent people are more introspection-like kind of persons and introspection is a double-sword&hellip;",
+            "content_html": "why do above average people seem more prone to depression than the rest? this has troubled many eminent practitioners on the field. personally i think this might relate to the fact that inteligent people are more introspection-like kind of persons and introspection is a double-sword gun that diverts us from the biological defence walls of instinct. instincts are pre-programmed reflexes that help us in dealing with matters and improve our overall well-being, but they are dogmatic since they are kind of automatic responses. but as humans we are above the strict realms of instinct since we like to contest and doubt preconceived assumptions, and introspection is instrumental in this; but derailed doubts can be dizzy since it blocks us from the mental anchors of our confort zone. this is what makes humankind evolve in the end ant this might also be why are the most accomplished of us, who set the stage for civilizational evolution and progress, the ones who sacrify themselfs more on the process",
+            "image": "https://neocris.github.io/blog/media/posts/2/",
+            "author": {
+                "name": "cris"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-18T10:49:15+01:00",
+            "date_modified": "2018-09-18T10:49:15+01:00"
+        },
+        {
             "id": "https://neocris.github.io/blog/an-evaluation-of-emdr.html",
             "url": "https://neocris.github.io/blog/an-evaluation-of-emdr.html",
             "title": "an evaluation of emdr",
