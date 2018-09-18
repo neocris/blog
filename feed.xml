@@ -3,7 +3,7 @@
     <title>blog2</title>
     <link href="https://neocris.github.io/blog/feed.xml" rel="self" />
     <link href="https://neocris.github.io/blog" />
-    <updated>2018-09-18T10:54:20+01:00</updated>
+    <updated>2018-09-18T11:06:16+01:00</updated>
     <author>
         <name>cris</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://neocris.github.io/blog/the-magic-numbers-of-cognition.html"/>
         <id>https://neocris.github.io/blog/the-magic-numbers-of-cognition.html</id>
+            <category term="psychology"/>
+            <category term="math"/>
 
-        <updated>2018-09-18T10:54:11+01:00</updated>
+        <updated>2018-09-18T11:04:13+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://neocris.github.io/blog/media/posts/4/" alt="" />
@@ -42,8 +44,9 @@
         </author>
         <link href="https://neocris.github.io/blog/schyzophrenia-as-manifold-reality.html"/>
         <id>https://neocris.github.io/blog/schyzophrenia-as-manifold-reality.html</id>
+            <category term="psychology"/>
 
-        <updated>2018-09-18T10:51:04+01:00</updated>
+        <updated>2018-09-18T11:03:23+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://neocris.github.io/blog/media/posts/3/" alt="" />
@@ -67,8 +70,10 @@
         </author>
         <link href="https://neocris.github.io/blog/the-mad-genius-complex.html"/>
         <id>https://neocris.github.io/blog/the-mad-genius-complex.html</id>
+            <category term="psychology"/>
+            <category term="micro-post"/>
 
-        <updated>2018-09-18T10:49:15+01:00</updated>
+        <updated>2018-09-18T11:03:05+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://neocris.github.io/blog/media/posts/2/" alt="" />
@@ -89,8 +94,9 @@
         </author>
         <link href="https://neocris.github.io/blog/an-evaluation-of-emdr.html"/>
         <id>https://neocris.github.io/blog/an-evaluation-of-emdr.html</id>
+            <category term="psychology"/>
 
-        <updated>2018-09-18T10:41:22+01:00</updated>
+        <updated>2018-09-18T11:06:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://neocris.github.io/blog/media/posts/1/" alt="" />
@@ -100,9 +106,9 @@
         <content type="html">
             <![CDATA[
                     <img src="https://neocris.github.io/blog/media/posts/1/" alt="" />
-                <p>struggling in the last 20 years or so with severe <a href="https://en.wikipedia.org/wiki/Schizophrenia" target="_blank" rel="noopener noreferrer">emotional paralysis</a>, a term coined by myself to denote the full extent of psychological impedance affecting my everyday endeavours - i set out to understand better the emdr cognitive tool said to reprocess the way the mind copes with memories</p>
+                <p>struggling in the last 20 years or so with severe <a href="#INTERNAL_LINK#/post/3">emotional paralysis</a>, a term coined by myself to denote the full extent of psychological impedance affecting my everyday endeavours - i set out to understand better the emdr cognitive tool said to reprocess the way the mind copes with memories</p>
 <p><a href="https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing" target="_blank" rel="noopener noreferrer">emdr</a> (<strong>e</strong><i>ye <strong>m</strong>ovement <strong>d</strong>esensitization and <strong>r</strong>eprocessing</i>) is a form of <a href="https://en.wikipedia.org/wiki/Neuro-linguistic_programming" target="_blank" rel="noopener noreferrer">neuro reprograming</a> trough techniques devised to reset the way the mind processes memories according to some stimulus</p>
-<p>from the way i experience and understand the range of psychological disturbances comprising schyzophrenia i can say honestly that it seems to me the way this tool works is by providing the mind with a kind of detour from the persistent way it processes stressful stimula</p>
+<p>from the way i experience and understand the range of psychological disturbances comprising <a href="https://en.wikipedia.org/wiki/Schizophrenia" target="_blank" rel="noopener noreferrer">schyzophrenia</a> i can say honestly that it seems to me the way this tool works is by providing the mind with a kind of detour from the persistent way it processes stressful stimula</p>
 <figure class="post__image post__image--left" ><img src="file://C:/Users/Casa/Documents/Publii/sites/blog/input/media/posts/2/640px-Meerkat_feb_09.jpg" width="640" height="1254">
 <figcaption >By Fir0002 - GFDL 1.2, https://commons.wikimedia.org/w/index.php?curid=7698654</figcaption>
 </figure>
