@@ -3,12 +3,38 @@
     <title>blog2</title>
     <link href="https://neocris.github.io/blog/feed.xml" rel="self" />
     <link href="https://neocris.github.io/blog" />
-    <updated>2018-09-18T10:51:16+01:00</updated>
+    <updated>2018-09-18T10:54:20+01:00</updated>
     <author>
         <name>cris</name>
     </author>
     <id>https://neocris.github.io/blog</id>
 
+    <entry>
+        <title>the magic numbers of cognition</title>
+        <author>
+            <name>cris</name>
+        </author>
+        <link href="https://neocris.github.io/blog/the-magic-numbers-of-cognition.html"/>
+        <id>https://neocris.github.io/blog/the-magic-numbers-of-cognition.html</id>
+
+        <updated>2018-09-18T10:54:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://neocris.github.io/blog/media/posts/4/" alt="" />
+                    there's no way to ignore that alongside history people always felt some numbers to be somehow special. following that tradition the pythagorians were the first that history recorded as attributing numbers and their properties some magical powers to the point where they devised an whole&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://neocris.github.io/blog/media/posts/4/" alt="" />
+                <p>there's no way to ignore that alongside history people always felt some numbers to be somehow special. following that tradition the pythagorians were the first that history recorded as attributing numbers and their properties some magical powers to the point where they devised an whole cosmogony around them. since then much has happened on this field and many generations of mathematicians and others have propelled it to a propper subfield of mathematics - the new pytagorians dwelve on number theory</p>
+<p>there are some numbers that intrigued whole generations and deserve some special place among them like <a href="https://en.wikipedia.org/wiki/Pi">pi</a>, <a href="https://en.wikipedia.org/wiki/E_(mathematical_constant)">e</a>, or the <a href="https://en.wikipedia.org/wiki/Golden_ratio">golden ratio</a>, and even an whole class of them like the <a href="https://en.wikipedia.org/wiki/Prime_number" target="_blank" rel="noopener noreferrer">primes</a>. but almost since ever the numbers 3, 7, and 12 are among the most notorious for us humans. why? as to the why an eminent proposal from psychology is the eponymous miller's law also known as <a href="https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two" target="_blank" rel="noopener noreferrer">the magical number seven plus or minus two</a> which roughly states that humans are capable of retain simultaneously 7 plus or minus 2 things on memory, that is to say in the range of 5 to 9. i like to extend this theory also to the numbers 3 and 12, and i wish to elaborate on this a little further. incidently i devised this before i was aware of the seminal paper by the eminent cognitive psychologist <a href="https://en.wikipedia.org/wiki/George_Armitage_Miller" target="_blank" rel="noopener noreferrer">george miller</a> with an obvious more prolific account and scientific background, but nevertheless besides the lack of test empirical data to support my assertion and based only on pure intuition (not very scientific on my part, i know) i choose to give this account for historical reference on my thought on the matter based on a 3-7-12 premise rather than miller's 5-9. but you are advised to go for miller on this, otherwise anyone can consider this as just a minor extension or complement to miller's main points</p>
+<p>we all recognize that altough not the only thing in the picture, memory plays a significant role on intelligence; the ability to process is intrinsically connected with our capacity to store information, not at least because information is a raw derivative of the act of processing, to process information we must store and discard at multiple levels some info instrumental for the calculus of whatever we are processing, so information produces information and relies itself on information. sometimes, specially on the computer science field, we distinguish between those various kinds of information as data and information propper to denote their roles on information processing</p>
+<p>therefore, my thesis goes, these numbers are strongly correlated to our ability to paralell processing of information. so, people with disabilities or cognitive impairments can process or memorize 3 things a time at most, most people can do it around 7 items, and very smart ones can do above twelve. but although even 12 things can be quite remarkable it's not good enough for the current state of civilization so we humans learned to categorize things so that those items can be themselfs whole sets of related things and therefore we can extend our limited capacity to retain information as long as those things can be related trough our pattern matching abilities relying them on senses or inductive reasoning. for instance, we are able to consider at any time the whole set of natural numbers, that is, given some specific number n we can produce its successor. we are able to do that because we recognize the sequential order pattern inherent on natural numbers, but if are given some n randomly distributed numbers from the natural set we are limited by our inner ability to store simultaneously unrelated items</p>
+<p>that way, this being true, it's no surprise that intuitively we grant such relevance to those numbers, because they are kind of immersed on our cognitive machinery to process information, they are natural registers of our mind processor, the brain, if you are so computer hardware inclined. and by no means that is exclusive of humans since numbers and patterns are everywhere on nature and from plants to <a href="https://en.wikipedia.org/wiki/Nautilus" target="_blank" rel="noopener noreferrer">nautilus</a> (their shells grow at a constant pace denoted by the golden ratio) numbers seem deeply rooted on our ability to evolve and survive. in that perhaps relies some of the <a href="https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences"></a><a href="https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html">unreasonable effectiveness of mathematics in the natural sciences</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>schyzophrenia as manifold reality</title>
         <author>
