@@ -3,14 +3,49 @@
     <title>blog2</title>
     <link href="https://neocris.github.io/blog/feed.xml" rel="self" />
     <link href="https://neocris.github.io/blog" />
-    <updated>2018-09-18T11:06:16+01:00</updated>
+    <updated>2018-09-18T11:10:30+01:00</updated>
     <author>
         <name>cris</name>
     </author>
     <id>https://neocris.github.io/blog</id>
 
     <entry>
-        <title>the magic numbers of cognition</title>
+        <title>democracy paradox</title>
+        <author>
+            <name>cris</name>
+        </author>
+        <link href="https://neocris.github.io/blog/democracy-paradox.html"/>
+        <id>https://neocris.github.io/blog/democracy-paradox.html</id>
+            <category term="politics"/>
+            <category term="cross-post"/>
+
+        <updated>2018-09-18T11:09:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://neocris.github.io/blog/media/posts/5/" alt="" />
+                    motivated by chinese researchers are outperforming americans in science and China has now eclipsed US in AI / deep-learning research, robotics and VC funding (government-backed $338 billion) china has the benefits of being a dictatorship (yes, it has some), namely their top-level rulers are able to rule without&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://neocris.github.io/blog/media/posts/5/" alt="" />
+                <p>motivated by <a href="https://www.bloomberg.com/view/articles/2018-09-12/chinese-researchers-are-outperforming-americans-in-science" target="_blank" rel="noopener noreferrer">chinese researchers are outperforming americans in science</a> and <a href="china-ai-robotics-vc.md Created 2 years ago •">China has now eclipsed US in AI / deep-learning research, robotics and VC funding (government-backed $338 billion)</a></p>
+<p>china has the benefits of being a dictatorship (yes, it has some), namely their top-level rulers are able to rule without much distraction from opposition, and to deal with dissidents and such there are middle staff to implement party policy. the same can only be achieved in countries with much social trust and lower levels of corruption like norway. democracy is not a win-win situation, bit it has strong potential for further improvement until a sublime cumulus state of anarchy</p>
+<p>from <a href="https://mstdn.io/@botdroid/100717949354821666" target="_blank" rel="noopener noreferrer">https://mstdn.io/@botdroid/100717949354821666</a></p>
+<div class="status__content" tabindex="0">
+<p>govermentwood in decreasing order:</p>
+<p>1) enlightneted despotism<br>2) democracy<br>3) tyranny</p>
+<p>relative assessment: in a democracy power is substituted by vote; when enlightened despotism downgrades to tyranny power is removed only by blood and revolution</p>
+<p>from <a href="https://mstdn.io/@botdroid/100720819028433233" target="_blank" rel="noopener noreferrer">https://mstdn.io/@botdroid/100720819028433233</a></p>
+<p>in democracy an enlightened despot can only be elected trough the ways of demagogue democrats. in normal people this two requirements don't overlap, meaning either you can be a good ruler or a bad democrat. there are few exceptions to this rule</p>
+<p>from <a href="https://mstdn.io/@botdroid/100720843246295026" target="_blank" rel="noopener noreferrer">https://mstdn.io/@botdroid/100720843246295026</a></p>
+</div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>magic numbers of cognition</title>
         <author>
             <name>cris</name>
         </author>
@@ -19,7 +54,7 @@
             <category term="psychology"/>
             <category term="math"/>
 
-        <updated>2018-09-18T11:04:13+01:00</updated>
+        <updated>2018-09-18T11:10:17+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://neocris.github.io/blog/media/posts/4/" alt="" />
@@ -64,7 +99,7 @@
         </content>
     </entry>
     <entry>
-        <title>the mad genius complex</title>
+        <title>mad genius complex</title>
         <author>
             <name>cris</name>
         </author>
@@ -73,7 +108,7 @@
             <category term="psychology"/>
             <category term="micro-post"/>
 
-        <updated>2018-09-18T11:03:05+01:00</updated>
+        <updated>2018-09-18T11:10:05+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://neocris.github.io/blog/media/posts/2/" alt="" />
